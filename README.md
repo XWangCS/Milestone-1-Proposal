@@ -2,4 +2,4 @@
 Milestone 1 of CSC 690 Final Project
 
 Team members:
-Tyler Evans, 
+Tyler Evans, Xiayi Wang
